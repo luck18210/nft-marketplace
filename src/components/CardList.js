@@ -1,6 +1,6 @@
 import React from "react";
 import NFTCard from "./NFTCard";
-import "../styles/CardList.css";
+import "../styles/CardList.scss";
 import { useNavigate } from "react-router-dom";
 
 const CardList = ({ list,type="horizontal" }) => {

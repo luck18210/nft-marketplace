@@ -3,7 +3,7 @@ import Header from "../components/Header";
 import { useNavigate } from "react-router-dom";
 import { useLocation, Navigate } from "react-router";
 import Card from "../components/base/Card";
-import "../styles/NFTDetail.css";
+import "../styles/NFTDetail.scss";
 import { ColorExtractor } from "react-color-extractor";
 import Button from "../components/base/Button";
 import { FaEthereum } from "react-icons/fa";

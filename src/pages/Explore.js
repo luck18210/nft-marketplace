@@ -1,7 +1,7 @@
 import react from "react";
 import CardList from "../components/CardList";
 import { exploreList } from "../constants/MockupData";
-import '../styles/Explore.css';
+import '../styles/Explore.scss';
 import Header from "../components/Header";
 import Search from "../components/Search";
 const Explore = () => {

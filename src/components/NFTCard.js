@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "../styles/NFTCard.css";
+import "../styles/NFTCard.scss";
 import { FaEthereum } from "react-icons/fa";
 import { AiOutlineHeart, AiFillHeart } from "react-icons/ai";
 import { ColorExtractor } from 'react-color-extractor'

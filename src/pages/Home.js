@@ -1,6 +1,6 @@
 import react from "react";
 import Hero from "../components/Hero";
-import "../styles/Home.css";
+import "../styles/Home.scss";
 import CardList from "../components/CardList";
 import { hotDropsData } from "../constants/MockupData";
 
